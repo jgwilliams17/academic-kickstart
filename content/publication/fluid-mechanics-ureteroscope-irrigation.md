@@ -50,9 +50,6 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-
-# Custom links (optional).
-# Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "Supplementary", url = "/pdf/fluid-mechanics-ureteroscope-irrigation-supplementary-material.pdf"}]
 
 # Does the content use math formatting?
