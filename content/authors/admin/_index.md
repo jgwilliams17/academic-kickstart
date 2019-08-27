@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jessica Williams
+name: Jessica Grace Williams
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: D.Phil student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Oxford
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,10 +49,10 @@ social:
   link: https://twitter.com/JGWilliams717
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.co.uk/citations?user=ZOJ4IToAAAAJ&hl=en
+- icon: bitbucket
   icon_pack: fab
-  link: https://github.com/jgwilliams17
+  link: https://bitbucket.org/%7B792346b0-b0d7-4c2b-960e-1579d0bea7b6%7D/profile/repositories?visibility=all
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
