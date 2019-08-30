@@ -31,7 +31,7 @@ featured = true
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["battery-modelling"]
+# projects = ["battery-modelling"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -48,7 +48,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_slides = "talk/three-minute-thesis/3MinThesis.pdf"
-url_video = "https://www.youtube.com/watch?v=Ue0e2l0tZhQ"
+url_video = ""
 url_code = ""
 
 # Does the content use math formatting?
@@ -66,4 +66,4 @@ math = true
   focal_point = "Center"
 +++
 
-{{< vimeo 312527376 >}}
+{{< youtube id= "Ue0e2l0tZhQ" autoplay="false" >}}
