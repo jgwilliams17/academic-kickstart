@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in applied mathematics at the University of Oxford with a keen interest in physical modelling of medical and biological systems. My current research, in partnership with Boston Scientific Corporation, is on the fluid mechanics of kidney stone removal.
+I am a PhD student in applied mathematics at the University of Oxford with a keen interest in physical modelling of medical and biological systems. My current research focuses on the mechanics of fluid flows during ureteroscopy, a surgical procedure for the destruction and removal of kidney stones.
