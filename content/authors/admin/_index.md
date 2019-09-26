@@ -21,14 +21,15 @@ organizations:
 bio: I am interested in tackling theoretical challenges in biology or medicine with mathematical techniques.
 
 interests:
-- Fluid Mechanics
+- Fluid mechanics
 - Medical Device Design
+- Biological applications of mathematical modelling
 
 education:
   courses:
   - course: PhD in Industrially Focussed Mathematical Modelling
     institution: University of Oxford
-    year: 2019 (expected)
+    year: 2019
   - course: MSc in Mathematical Modelling and Scientific Computing
     institution: University of Oxford
     year: 2015
