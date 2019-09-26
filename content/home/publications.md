@@ -65,5 +65,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-list_format=2
 +++

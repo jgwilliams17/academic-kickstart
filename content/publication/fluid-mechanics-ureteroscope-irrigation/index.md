@@ -29,10 +29,10 @@ summary = "Mathematical models and bench-top experiments quantifying the effects
 featured = true
 
 # Featured image thumbnail (optional)
-image_preview = "true"
+image_preview = false
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -64,6 +64,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "working-tools.jpg"
-caption = "My caption ??"
+image = "headers/working-tools.jpg"
+caption = "The effect of working tools."
+image_preview = false
 +++
